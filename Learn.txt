@@ -1,0 +1,4 @@
+# To Get Status of Changes :     $ git status
+# To Add Changes To Commit (Stage) : $ git add "Filename" or (*) for allfiles
+# To To Commit Changes :    $ git commit -m 'you comment here'
+# To Push Commit :     $ git push
